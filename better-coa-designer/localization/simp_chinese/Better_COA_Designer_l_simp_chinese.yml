@@ -1,0 +1,27 @@
+﻿l_simp_chinese:
+grid_symbol: "网格"
+guide_v: "垂直准线"
+guide_h: "水平准线"
+edit_emblem: "#T 编辑特性"
+close: "关闭"
+COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT_new: "$COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT$\n#I 点击鼠标右键移除#!"
+reset_guides: "重置准线位置"
+guide_color: "切换蓝色准线"
+sliders: "大型滑动条"
+precise_editing: "使用鼠标滚轮进行更准确地调整"
+markers: "标记"
+compact_emblem_list: "紧凑列表"
+shorter_combined_checbox: "$COA_DESIGNER_SCALE_COMBINED_CHECKBOX_LABEL$"
+reset_emblems: "Reset emblems"
+
+ # new, color picker
+
+switch_color_mode: "\n#i Click to switch to this mode"
+editbox_color_hex: "#high Hex code"
+editbox_color_hue: "#high Hue#!\nDefault mode $switch_color_mode$"
+editbox_color_saturation: "#high Saturation $switch_color_mode$"
+editbox_color_value: "#high Value $switch_color_mode$" # can also use brightness
+editbox_color_red: "#high Red $switch_color_mode$"
+editbox_color_green: "#high Green $switch_color_mode$"
+editbox_color_blue: "#high Blue $switch_color_mode$"
+editbox_color_alpha: "#high Alpha $switch_color_mode$"

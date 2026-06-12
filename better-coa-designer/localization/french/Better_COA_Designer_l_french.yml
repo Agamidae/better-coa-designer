@@ -1,0 +1,27 @@
+﻿l_french:
+grid_symbol: "Grille"
+guide_v: "Ligne directrice verticale"
+guide_h: "Ligne directrice horizontale"
+edit_emblem: "#T Afficher les propriétés avancées"
+close: "Fermer"
+COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT_new: "$COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT$\n#I Clic droit pour supprimer#!"
+reset_guides: "Réinitialiser la position des lignes directrices"
+guide_color: "Basculer entre les lignes directrices bleues/blanches"
+sliders: "Gros curseurs"
+precise_editing: "Utiliser la molette de la souris pour ajuster plus précisemment"
+markers: "Marqueurs"
+compact_emblem_list: "Vue compacte/étendue"
+shorter_combined_checbox: "Garder les proportions"
+reset_emblems: "Reset emblems"
+
+ # new, color picker
+
+switch_color_mode: "\n#i Click to switch to this mode"
+editbox_color_hex: "#high Hex code"
+editbox_color_hue: "#high Hue#!\nDefault mode $switch_color_mode$"
+editbox_color_saturation: "#high Saturation $switch_color_mode$"
+editbox_color_value: "#high Value $switch_color_mode$" # can also use brightness
+editbox_color_red: "#high Red $switch_color_mode$"
+editbox_color_green: "#high Green $switch_color_mode$"
+editbox_color_blue: "#high Blue $switch_color_mode$"
+editbox_color_alpha: "#high Alpha $switch_color_mode$"
